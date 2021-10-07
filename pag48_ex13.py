@@ -1,0 +1,15 @@
+print('Programa tabuada')
+
+base = int(input('Digite um Número: \n'))
+
+print('Tabuada do: ', base,'\n')
+print(base,'x 1 =',base*1)
+print(base,'x 2 =',base*2)
+print(base,'x 3 =',base*3)
+print(base,'x 4 =',base*4)
+print(base,'x 5 =',base*5)
+print(base,'x 6 =',base*6)
+print(base,'x 7 =',base*7)
+print(base,'x 8 =',base*8)
+print(base,'x 9 =',base*9)
+print(base,'x 10 =',base*10)
